@@ -1,0 +1,11 @@
+{
+  "name": "timvel",
+  "version": "0.5.0",
+  "description": "normalize and tag data",
+  "dependencies": {
+    "ali-oss": "^6.1.1",
+    "commander": "^2.20.0"
+  },
+  "preferGlobal": true,
+  "bin": "./index.js"
+}
